@@ -15,7 +15,7 @@ function App() {
         
           <a
             className="twitter-link"
-            href="#"
+            href="https://training.zuri.team/"
             target="_blank"
             rel="noopener noreferrer"
             id='btn__zuri'
